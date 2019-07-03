@@ -44,4 +44,4 @@ jupyter labextension list
 
 # Run Jupyter
 jupyter lab path
-jupyter-lab --no-browser --port=${port} --ip=${node} --app-dir=~/.local/share/jupyter/lab
+jupyter-lab --no-browser --port=${port} --ip=${node}
